@@ -1,0 +1,89 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.container{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+
+.right{  
+    padding:120.2px 50px;
+    background-color: rgba(243, 50, 185, 0.134);
+    
+}
+ .right h1{
+    font-family: cursive;
+    font-size:50px;
+    text-align: center;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: #fff;
+  text-shadow: 0 0 5px #ff00ae, 0 0 15px #0037ff, 0 0 30px #ff00f2;
+ }
+ .right > p{
+    font-family: cursive;
+  font-size: 20px;
+  text-align:center;
+  padding-bottom: 20px;
+  color:rgb(78, 76, 76);
+
+ }
+ 
+ #email{
+    font-size:larger;
+    padding:20px 155px 20px 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+   border:none;
+ }
+
+ #password{
+    font-size:larger;
+    padding:20px 155px 20px 20px;
+    border-radius: 15px;
+    border:none;
+ }
+ .PasswordSection a{
+   display:block;
+    text-align: right;
+   color:black ;
+text-decoration: none;
+margin-bottom:30px;
+ }
+
+ .button{
+           text-align: center;
+           
+ }
+
+ button{
+    padding:20px 180px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-bottom:30px;
+    border:none;
+    background-color: #ff00f278;
+ }
+
+ form > p{
+            text-align: center;
+ }
+
+ .left{
+             padding:172.9px 100px;
+             background-color: rgba(245, 209, 4, 0.666);
+             display: flex;
+             justify-content: center;
+             align-items: center;
+}
+
+
+ 
+
+
+ 
