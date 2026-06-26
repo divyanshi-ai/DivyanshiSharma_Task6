@@ -34,6 +34,10 @@
 * Clone or download the project folder.
 * Ensure both index.html and index.css are in the same directory.
 * Open index.html in any browser.
+* This method is to run the project locally, it cannot run on other devices by sharing the local link.
+* This method is for the device that contains all the files.
  2. Method -II
  * Copy the deployed link and paste it in your browser.
+ * Through this link :https://divyanshi-ai.github.io/DivyanshiSharma_Task6/ , we can see the live result  on any device.
+ * We can deploy the project on github, vercel, or netlify. 
  
